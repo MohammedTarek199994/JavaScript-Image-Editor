@@ -1,0 +1,58 @@
+.btn {
+  width: 430.8125px;
+  height: 69px;
+  --bs-success: #3fb618;
+  --bs-success-rgb: 63, 182, 24;
+  color: var(--bs-btn-active-color);
+  background: var(--bs-info);
+  font-size: 40px;
+  text-align: center;
+  border-style: none;
+  margin-left: 14px;
+}
+
+.range {
+  min-width: 35px;
+}
+
+.container {
+  background: #100f0f;
+  padding-top: 0px;
+  margin-top: 47px;
+  margin-bottom: 19px;
+  padding-bottom: 24px;
+  border-radius: 54px;
+}
+
+h1 {
+  background: var(--bs-success);
+  padding: 20px;
+  width: 1226.362px;
+  text-align: center;
+  padding-right: 0px;
+  margin-right: 6px;
+  padding-left: 0px;
+  margin-left: 34px;
+  padding-top: 26px;
+  margin-bottom: 2px;
+  margin-top: -12px;
+  padding-bottom: 20px;
+}
+
+label {
+  background: var(--bs-border-color-translucent);
+  color: #ffffff;
+  font-size: 23px;
+  text-align: center;
+}
+
+#img {
+  height: 419px;
+}
+
+body {
+  background: var(--bs-indigo);
+}
+#canvas {
+  display: none;
+}
